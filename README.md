@@ -1,8 +1,10 @@
 깃허브 주소
 https://github.com/taejeongm1n/taejeongm1n
+
 https://taejeongm1n.github.io/taejeongm1n/#profile
 
 추가 기능
+
 1-1. 내비게이션
 1-2. 웹페이지 상단에 위치한 내비게이션 바로, 항목을 클릭할 경우 해당 위치로 이동
 1-3. index.html의 nav class에 위치(11-17)
@@ -14,6 +16,7 @@ https://taejeongm1n.github.io/taejeongm1n/#profile
 2-4. 해당 카드를 클릭할 때 toggleDescription() 함수 실행되어 어떤 카드가 클릭됐는지 확인 후 해당 카드의 설명만 block으로 보이게 하고, 다른 카드의 설명은 none으로 숨김
 
 홈페이지 설명
+
 총 3가지의 섹션으로 나누어 포트폴리오에 대해 설명함.
 Profile 섹션에서는 프로필 이미지와, 희망 직무에 대해 설명하고,
 Skills 섹션에서는 다룰 수 있는 기술에 대해 설명하고,
